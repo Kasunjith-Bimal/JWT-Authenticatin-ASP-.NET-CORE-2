@@ -1,0 +1,10 @@
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\bin\Debug\netcoreapp2.0\TokenBasedAuthentication.deps.json
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\bin\Debug\netcoreapp2.0\TokenBasedAuthentication.runtimeconfig.json
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\bin\Debug\netcoreapp2.0\TokenBasedAuthentication.runtimeconfig.dev.json
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\bin\Debug\netcoreapp2.0\TokenBasedAuthentication.dll
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\bin\Debug\netcoreapp2.0\TokenBasedAuthentication.pdb
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\obj\Debug\netcoreapp2.0\TokenBasedAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\obj\Debug\netcoreapp2.0\TokenBasedAuthentication.AssemblyInfoInputs.cache
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\obj\Debug\netcoreapp2.0\TokenBasedAuthentication.AssemblyInfo.cs
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\obj\Debug\netcoreapp2.0\TokenBasedAuthentication.dll
+C:\Users\Rika\source\repos\TokenBasedAuthentication\TokenBasedAuthentication\obj\Debug\netcoreapp2.0\TokenBasedAuthentication.pdb
